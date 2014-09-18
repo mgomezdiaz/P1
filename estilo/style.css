@@ -1,0 +1,165 @@
+
+/*slider*/
+#slider { 
+position: relative;
+overflow: hidden;
+width: 15cm; 
+height: 10cm; 
+margin: 0 auto;
+padding: 0;
+z-index: 1;
+text-align: center;
+}
+img.slider
+{
+	width: 100%;
+	height: 10cm;
+
+}
+body
+{
+	background-color: transparent;
+}
+div.web
+{
+	width: 1160px;
+	margin: 0 auto;
+	height: 100%;
+}
+
+.name
+{
+	font-family: Helvetica;
+	font-size: 5em;
+}
+h1
+{
+	font-family: Helvetica;
+	font-size: 3em;
+}
+h2
+{
+	font-family: helvetica;
+	font-size: 1.5em;
+	font-style: italic;
+	font-weight: normal;
+}
+
+
+
+}
+
+a
+{
+	text-decoration: none;
+	outline: none;
+}
+
+
+div
+{
+	background-color: transparent;
+}
+div.todo
+{
+	background: url(../imagenes/beach.png) no-repeat;
+	
+}
+
+
+
+
+/* ::: Footer ::: */
+
+div.foo
+{
+	background:#424242;
+height: 2.5cm;
+width: 100%;
+}
+
+
+footer
+{
+    background:#424242;
+    width:100%;
+    clear:both;
+    display:block;
+    text-shadow:none;
+    color:#bcbcbc;
+    margin:0 auto;
+    padding:0 0 0;
+    text-align: right; 
+
+}
+
+.conectar 
+{
+    background: #424242;
+    padding:0; 
+    float:left; 
+    margin:0 0 0; 
+    clear:none;
+}
+
+.conectar a.social 
+{
+    width:55px;
+    height:55px;
+    float:left;
+    font-size:0;
+    text-decoration:none;
+    text-indent:-9999px;
+    margin:0 50px 0 0; 
+    outline:none;
+    display:block; 
+    position:relative;
+    padding:0;
+}
+
+
+
+.conectar img 
+{
+    width:2.5cm;
+    height: 2.5cm; 
+    height: auto; 
+    display:block; 
+}
+
+.conectar img.rollover 
+{ 
+    position:absolute; 
+    top:0; 
+    left:0; 
+    opacity:0;
+}
+
+.conectar a:hover img.rollover 
+{
+    opacity:1;
+}
+
+.conectar a:hover img.rollout 
+{
+    opacity:0;
+}
+span.datos
+{
+	padding-right: 90px;
+	
+}
+span.tlf
+{
+	
+	font-size: 2em;
+	padding-right: 90px;
+}
+
+
+
+
+
+
+
+
